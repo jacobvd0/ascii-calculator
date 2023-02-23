@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KADmQxg7+FhCjO/iT9I1oGvpG9wgI1agCJHf5nZdH015N4ywFR3uSd8BesW49MSTHazYnyBC6yyWrXz41ZvHhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s221150\\source\\repos\\CalculatorThing\\CalculatorThing\\CalculatorThing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s221150\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

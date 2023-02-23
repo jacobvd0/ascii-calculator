@@ -1,0 +1,17 @@
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\bin\Debug\net6.0\CalculatorThing.exe
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\bin\Debug\net6.0\CalculatorThing.deps.json
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\bin\Debug\net6.0\CalculatorThing.runtimeconfig.json
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\bin\Debug\net6.0\CalculatorThing.dll
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\bin\Debug\net6.0\CalculatorThing.pdb
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.csproj.AssemblyReference.cache
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.AssemblyInfoInputs.cache
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.AssemblyInfo.cs
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.csproj.CoreCompileInputs.cache
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.dll
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\refint\CalculatorThing.dll
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.pdb
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.genruntimeconfig.cache
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\ref\CalculatorThing.dll
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\bin\Debug\net6.0\Figgle.dll
+C:\Users\s221150\source\repos\CalculatorThing\CalculatorThing\obj\Debug\net6.0\CalculatorThing.csproj.CopyComplete
